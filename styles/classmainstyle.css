@@ -1,0 +1,242 @@
+/* THE CODE BELOW IS FOR CURRENCY CONVERTER */
+
+.flight-header {
+    color: white;
+}
+
+.flight-info {
+    color: white;
+}
+
+#currencyBox {
+    width: 500px;
+    height: 75px;
+
+}
+h2 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+    
+}
+#currencyTable {
+    margin: 0px auto;
+    border-collapse: separate;
+    border-spacing: 10px;
+
+}
+
+button {
+  
+    text-align: center;
+    margin-top: 0px; 
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+
+
+
+.top_item_text {
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 5px;
+    color:black;
+    font-weight: 500;
+
+}
+#from-amount {
+    border-radius: 10%;
+    padding-left: 3px;
+    height: 25px;
+    width: 100px;
+
+    
+}
+#to-amount {
+    padding-left: 3px;
+    border-radius: 0;
+    height: 25px;
+    width: 100px;
+  
+   
+}
+#to {
+    padding-right: 20px;
+}
+
+
+.circleimg {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+}
+.top_item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* this code is for the converter button */
+#searchButton {
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 20px;
+    /* margin-left: 160px; */
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.currency-button {
+    display: flex;
+}
+
+.table {
+    border: none;
+
+}
+
+ /*THE CODE BELOW IS FOR THE WEATHER APP */
+
+.weather {
+    width: 500px;
+    height: 200px;
+    margin: 0px auto;
+    /* border: 2px solid grey; */
+    margin-top: 30px;
+
+  
+}
+
+#weatherApp {
+    align-content: center;
+    margin-top: 20px;
+    margin-left: 157px;
+    height: 30px;
+}
+#weatherButton {
+    margin-left: 155px;
+    margin-top: 10px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    
+}
+/* .button-weather {
+    display: flex;
+} */
+
+/* .weather-input {
+    display: flex;
+  
+} */
+
+
+#weather-box {
+    width: 500px;
+    height: 200px;
+    margin: 0px auto;
+    margin-top: 30px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
+.city {
+    font-weight: bolder;
+    text-align: center;
+    font-display: 'Montserrat', sans-serif;
+    font-size: 10px;
+}
+.weather-header {
+  color: white;
+  font-weight: bold;
+   
+}
+
+#weatherTracker {
+    /* border: 2px solid black; */
+    
+}
+
+.video_title {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 400p
+}
+/* This code is for the positioning and style of the translate button */
+
+#return {
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+.translator-button {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* This code is for the layout of the translator text boxes */
+#text-box1, #text-box2 {
+    color: black;
+    width: 600px;
+    height: 175px;
+    margin: auto;
+}
+
+
+
+/* flight Section Styles */
+
+.find_item:nth-child(3) {
+    width: 13%;
+}
+
+.table-fixed {
+    font-size: 16px; 
+    /* font-family: 'Montserrat', sans-serif;  */
+    width: 100%;
+    border-bottom: solid;
+    border-width: 1px;
+    padding: 3px; 
+    font-family: 'Montserrat', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+	text-shadow: rgba(0,0,0,.01) 0 0 1px;
+}
+
+
+ /* THE CODE BELOW IS FOR FA FA ICONS; */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 50px;
+   
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+    color: black;
+  }
+  
+  /* Facebook */
+.fab {
+    /* background: #3B5998; */
+    color: white;
+    padding-left: 20px;
+  }
+  
+
+  
